@@ -19,6 +19,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto em questão foi desenvolvido para chamar clientes e apresentar o trabalho de uma determinada barbearia fictícia.
 
-- [Acesse o projeto finalizado, online](https://devfisio.vercel.app/)
+- [Acesse o projeto finalizado, online](https://projeto-devbarber.vercel.app)
 
 - [Assistir do aulas projeto](https://sujeitoprogramador.com/landing-page/)
